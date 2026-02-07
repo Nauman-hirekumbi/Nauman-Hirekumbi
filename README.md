@@ -1,6 +1,6 @@
 # Hi there it's Numan👋
 #About Me:
-Currently working on Web development projects & my personal portfolio<br>Open to collaborate on Web dev & startup ideas<br>Need help with React, backend & LLM<br>Currently learning MERN-stack development & core JS concepts<br>Fun fact I enjoy sports, traveling, and turning ideas into projects<br>
+Currently working on Web development projects & my personal portfolio<br>Open to collaborate on Web dev & startup ideas<br>Need help with advance React, backend & LLM<br>Currently learning MERN-stack development & core JS concepts<br>Fun fact I enjoy sports, traveling, and turning ideas into projects<br>
 
 
 ## 🌐 Socials:
